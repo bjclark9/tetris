@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="right">→</string>
+    <string name="left">←</string>
+    <string name="down">↓</string>
+    <string name="newGame">New Game</string>
+    <string name="box">Holder</string>
+    <string name="rotateRight">↻</string>
+    <string name="rotateLeft">↺</string>
+    <string name="scoreText">Score:</string>
+    <string name="score">000000</string>
+</resources>
